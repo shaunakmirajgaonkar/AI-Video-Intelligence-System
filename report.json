@@ -1,0 +1,67 @@
+{
+  "session": {
+    "timestamp": "2026-06-29T13:56:14",
+    "saved_to": "/Users/shaunak/ai_video_intelligence_/report.json"
+  },
+  "stats": {
+    "total_frames": 172,
+    "total_detections": 194,
+    "avg_detections_per_frame": 1.13,
+    "final_counts": {
+      "person": 1
+    },
+    "events": [
+      {
+        "time": "2026-06-29T13:55:27",
+        "frame": 26,
+        "event": "Scene summarised at frame 26"
+      },
+      {
+        "time": "2026-06-29T13:55:32",
+        "frame": 41,
+        "event": "Scene summarised at frame 41"
+      },
+      {
+        "time": "2026-06-29T13:55:38",
+        "frame": 64,
+        "event": "Scene summarised at frame 64"
+      },
+      {
+        "time": "2026-06-29T13:55:43",
+        "frame": 78,
+        "event": "Scene summarised at frame 78"
+      },
+      {
+        "time": "2026-06-29T13:55:48",
+        "frame": 94,
+        "event": "Scene summarised at frame 94"
+      },
+      {
+        "time": "2026-06-29T13:55:54",
+        "frame": 107,
+        "event": "Scene summarised at frame 107"
+      },
+      {
+        "time": "2026-06-29T13:55:59",
+        "frame": 127,
+        "event": "Scene summarised at frame 127"
+      },
+      {
+        "time": "2026-06-29T13:56:04",
+        "frame": 139,
+        "event": "Scene summarised at frame 139"
+      },
+      {
+        "time": "2026-06-29T13:56:09",
+        "frame": 160,
+        "event": "Scene summarised at frame 160"
+      },
+      {
+        "time": "2026-06-29T13:56:14",
+        "frame": 172,
+        "event": "User quit"
+      }
+    ]
+  },
+  "last_scene_summary": "urn on a shelf next to a clock"
+}

@@ -1,0 +1,7 @@
+# AI Video Intelligence System — Requirements
+# Python 3.10+
+
+ultralytics>=8.2.0      # YOLOv8 (auto-downloads yolov8n.pt on first run)
+opencv-python>=4.9.0    # Video capture + drawing
+requests>=2.31.0        # Ollama HTTP calls
+numpy>=1.26.0           # Tensor ops (pulled by ultralytics)
